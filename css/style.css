@@ -264,7 +264,7 @@ body._lock {
 
 .preview__description {
   width: 100%;
-  font-size: calc(20px + 15 * ((100vw - 320px) / 870));
+  font-size: calc(5px + 15 * ((100vw - 320px) / 870));
   text-align: right;
   line-height: 1.3;
 }
